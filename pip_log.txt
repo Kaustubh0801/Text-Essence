@@ -1,0 +1,13 @@
+2024-06-29T00:31:59,667 Using pip 24.1.1 from C:\Users\kaust\anaconda3\Lib\site-packages\pip (python 3.11)
+2024-06-29T00:31:59,667 Non-user install because site-packages writeable
+2024-06-29T00:31:59,940 Created temporary directory: C:\Users\kaust\AppData\Local\Temp\pip-build-tracker-prugn7fk
+2024-06-29T00:31:59,940 Initialized build tracking at C:\Users\kaust\AppData\Local\Temp\pip-build-tracker-prugn7fk
+2024-06-29T00:31:59,940 Created build tracker: C:\Users\kaust\AppData\Local\Temp\pip-build-tracker-prugn7fk
+2024-06-29T00:31:59,940 Entered build tracker: C:\Users\kaust\AppData\Local\Temp\pip-build-tracker-prugn7fk
+2024-06-29T00:31:59,940 Created temporary directory: C:\Users\kaust\AppData\Local\Temp\pip-install-uz7xtnmj
+2024-06-29T00:31:59,940 Created temporary directory: C:\Users\kaust\AppData\Local\Temp\pip-ephem-wheel-cache-2w6e534z
+2024-06-29T00:32:00,067 Created temporary directory: C:\Users\kaust\AppData\Local\Temp\pip-unpack-s61v_quh
+2024-06-29T00:32:00,758 Remote version of pip: 24.1
+2024-06-29T00:32:00,758 Local version of pip:  24.1.1
+2024-06-29T00:32:00,836 Was pip installed by pip? True
+2024-06-29T00:32:00,836 Removed build tracker: 'C:\\Users\\kaust\\AppData\\Local\\Temp\\pip-build-tracker-prugn7fk'
